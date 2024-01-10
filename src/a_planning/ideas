@@ -1,0 +1,39 @@
+
+
+---- TODO fix -----
+// Set class - work on first 2 methods
+// check how the inventory count is being added and if it can be simplified
+// figure out the whole list add situation, might not be necessary to have so many
+// figure out if im splitting the entry class for each door/portal: maybe keep it make it more dynamic
+// figure out a way for hot bar to draw items in corresponding slot
+
+----TODO list -----
+- enemy can attack player with certain weapons/tools
+- enemy can heal with heart drops
+- ability to destroy single tiles
+- ability to replace single tiles
+- allow player to enter portal and doors
+
+------Completed list-----
+- world generation is semi-procedural,
+ it writes to a txt file then reads it
+ to generate a playable world/map.
+- random spawn location for certain objects when loading new game
+- (FPS) shown during gameplay
+- player coordinates shown during gameplay
+- objects have textures
+- player can pick up items after destroying certain objects
+- keyboard only for gameplay
+- user interface implemented but limited
+- player can walk around and remain in center of screen
+- entities can follow player if near
+- entities have health and can take damage
+- entities can be set to null if health reaches zero
+- ability to destroy certain objects
+- ability to equip and un-equip certain items
+- ability to shoot projectile with certain weapon/tools
+- ability to heal if user touches heart drop
+- ability to attack and damage entities
+- swim over body of water
+- objects that take damage and texture changes depending on health
+
